@@ -1,6 +1,6 @@
-# Portfolio site
+# Online resume
 
-As a project work for a module in the higher technical college we should create a portfolio website. This should only use HTML and CSS, no JavaScript.
+As a project work for a module in the higher technical college we should create an online resume in form of a website. This should only use HTML and CSS, no JavaScript.
 
 ## Design
 I wanted to get more involved with Flexbox, so I decided to go with a unique design. Thereby I was strongly inspired by various chat apps like Telegram, WhatsApp and Threema.
